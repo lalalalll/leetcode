@@ -53,7 +53,7 @@ public class RemoveDuplicates {
 
         for (int i = 0; i < nums.length; i++) {
 
-            if (j < 2 || nums[i] > nums[i - 2]) {
+            if (j < 2 || nums[i] > nums[j - 2]) {
 
                 nums[j++] = nums[i];
             }
@@ -78,11 +78,11 @@ public class RemoveDuplicates {
 
     public static void main(String[] args) {
 
-        int[] nums = {0, 0, 1, 1, 1, 1, 2, 3, 3};
+        //        int[] nums = {0, 0, 1, 1, 1, 1, 2, 3, 3};
+        int[] nums = {1, 1, 1, 2, 2, 3};
 
         int result = (new RemoveDuplicates()).removeDuplicates(nums);
-
-        //        int result = (new RemoveDuplicates()).removeDuplicates2(nums);
+//        int result = (new RemoveDuplicates()).removeDuplicates2(nums);
 
         System.out.println(result);
 
