@@ -53,11 +53,6 @@
 				return false;
 			}
 			
-			if ($n == 1) {
-				
-				return true;
-			}
-			
 			while ($n % 5 == 0) {
 				
 				$n /= 5;
