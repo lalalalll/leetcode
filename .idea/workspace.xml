@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="26cf30d2-815c-4e5d-91ab-df59e747a395" name="Default Changelist" comment="627. 交换性别。要求：只写一个 Update 语句，不要任何中间表，不要编写任何 Select 语句。">
-      <change afterPath="$PROJECT_DIR$/daily/FindMin2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily/IsUgly.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php-test-framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daily/FindTheWinner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daily/NumSubarrayProductLessThanK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daily/NumSubarrayProductLessThanK.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daily/RecentCounter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daily/test/FindTheWinnerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daily/test/NumSubarrayProductLessThanKTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daily/test/RecentCounterTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/platform_check.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-52/40.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/0-52/40.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayString/a1数组简介.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayString/a1数组简介.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayString/a2动态数组简介.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayString/a2动态数组简介.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayString/a3寻找数组的中心索引.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayString/a3寻找数组的中心索引.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayString/a4至少是其他数字两倍的最大数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayString/a4至少是其他数字两倍的最大数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayString/a5plusOne.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayString/a5plusOne.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayString/a5加一.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayString/a5加一.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MST/a1716.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MST/a1716.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MST/a1716.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/MST/a1716.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/Clumsy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/Clumsy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/Clumsy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/Clumsy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/DefangIPaddr.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/DefangIPaddr.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/FindMin.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/FindMin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/IsUgly.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/IsUgly.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/LargestNumber.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/LargestNumber.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/LongestCommonSubsequence.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/LongestCommonSubsequence.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/Merge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/Merge.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/Merge.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/NthUglyNumber.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/NthUglyNumber.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/NumJewelsInStones.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/NumJewelsInStones.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/NumRabbits.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/NumRabbits.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/RemoveDuplicates.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/RemoveDuplicates.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/RunningSum.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/RunningSum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/SubsetsWithDup2.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/SubsetsWithDup2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/Trie.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/Trie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/subsetsWithDup.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/daily/subsetsWithDup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/182" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/182" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/595" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/595" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/627" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/627" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +84,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution />
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,18 +100,56 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="dummy://restClient/response63.html" root0="SKIP_INSPECTION" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpServers">
     <servers>
-      <server host="192.168.1.43" id="295341c8-e77c-4bbc-b925-011728f34090" name="192.168.1.43" />
+      <server host="localhost" id="085e47ac-cb1e-431b-b228-164717e335db" name="LOCALHOST" />
     </servers>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
     <include_path>
-      <path value="C:/php/pear" />
+      <path value="$PROJECT_DIR$/../../php/PEAR" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
     </include_path>
   </component>
   <component name="ProjectId" id="1qVmy5E9behuiZ0PD6y1iVWmHor" />
@@ -48,21 +161,35 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585279515759" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/daily/test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.33837208" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\leetcode\test" />
+      <recent name="D:\xampp\htdocs\leetcode" />
+      <recent name="D:\xampp\htdocs\leetcode\src" />
       <recent name="C:\phpStudy\PHPTutorial\WWW\leetcode" />
     </key>
   </component>
@@ -1231,9 +1358,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicates">
-    <configuration name="Clumsy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="daily.Clumsy" />
+  <component name="RunManager" selected="PHPUnit.RecentCounterTest.testRecentCounter">
+    <configuration name="NumSubarrayProductLessThanK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="daily.NumSubarrayProductLessThanK" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -1245,76 +1372,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="daily.RemoveDuplicates" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="daily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="FindTheWinnerTest.testFindTheWinner4 (1)" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="test\FindTheWinnerTest" configuration_file="$PROJECT_DIR$/test/phpunit.xml" file="$PROJECT_DIR$/test/FindTheWinnerTest.php" method="testFindTheWinner4" scope="Method" />
+      <method v="2" />
     </configuration>
-    <configuration name="a3寻找数组的中心索引" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayString.a3寻找数组的中心索引" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArrayString.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="FindTheWinnerTest.testFindTheWinner4" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="daily\test\FindTheWinnerTest" configuration_file="$PROJECT_DIR$/test/phpunit.xml" file="$PROJECT_DIR$/src/daily/test/FindTheWinnerTest.php" method="testFindTheWinner4" scope="Method" />
+      <method v="2" />
     </configuration>
-    <configuration name="a4至少是其他数字两倍的最大数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayString.a4至少是其他数字两倍的最大数" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArrayString.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="NumSubarrayProductLessThanKTest.testNumSubarrayProductLessThanK" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="daily\test\NumSubarrayProductLessThanKTest" configuration_file="$PROJECT_DIR$/test/phpunit.xml" file="$PROJECT_DIR$/src/daily/test/NumSubarrayProductLessThanKTest.php" method="testNumSubarrayProductLessThanK" scope="Method" />
+      <method v="2" />
     </configuration>
-    <configuration name="a5加一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayString.a5加一" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArrayString.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="RecentCounterTest.testRecentCounter" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="daily\test\RecentCounterTest" configuration_file="$PROJECT_DIR$/test/phpunit.xml" file="$PROJECT_DIR$/src/daily/test/RecentCounterTest.php" method="testRecentCounter" scope="Method" />
+      <method v="2" />
     </configuration>
-    <configuration name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" nameIsGenerated="true" server_name="192.168.1.43" start_url="/leetcode">
+    <configuration name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" nameIsGenerated="true" server_name="LOCALHOST" start_url="/leetcode/src">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.a3寻找数组的中心索引" />
-      <item itemvalue="Application.a4至少是其他数字两倍的最大数" />
-      <item itemvalue="Application.a5加一" />
-      <item itemvalue="Application.Clumsy" />
-      <item itemvalue="Application.RemoveDuplicates" />
+      <item itemvalue="Application.NumSubarrayProductLessThanK" />
       <item itemvalue="PHP Web Page.Unnamed" />
+      <item itemvalue="PHPUnit.FindTheWinnerTest.testFindTheWinner4" />
+      <item itemvalue="PHPUnit.FindTheWinnerTest.testFindTheWinner4 (1)" />
+      <item itemvalue="PHPUnit.NumSubarrayProductLessThanKTest.testNumSubarrayProductLessThanK" />
+      <item itemvalue="PHPUnit.RecentCounterTest.testRecentCounter" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveDuplicates" />
-        <item itemvalue="Application.Clumsy" />
-        <item itemvalue="Application.a5加一" />
-        <item itemvalue="Application.a4至少是其他数字两倍的最大数" />
-        <item itemvalue="Application.a3寻找数组的中心索引" />
+        <item itemvalue="PHPUnit.RecentCounterTest.testRecentCounter" />
+        <item itemvalue="Application.NumSubarrayProductLessThanK" />
+        <item itemvalue="PHPUnit.NumSubarrayProductLessThanKTest.testNumSubarrayProductLessThanK" />
+        <item itemvalue="PHPUnit.FindTheWinnerTest.testFindTheWinner4" />
+        <item itemvalue="PHPUnit.FindTheWinnerTest.testFindTheWinner4 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -1338,6 +1429,12 @@
       <workItem from="1617270169469" duration="33308000" />
       <workItem from="1617956622406" duration="595000" />
       <workItem from="1618207720463" duration="9975000" />
+      <workItem from="1626099662611" duration="10000" />
+      <workItem from="1651472410548" duration="574000" />
+      <workItem from="1651473537970" duration="721000" />
+      <workItem from="1651651480113" duration="7662000" />
+      <workItem from="1651727553715" duration="19469000" />
+      <workItem from="1651832517917" duration="4218000" />
     </task>
     <task id="LOCAL-00001" summary="182. MYSQL查找重复的电子邮箱">
       <created>1584953410390</created>
@@ -1393,6 +1490,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="182" />
     <MESSAGE value="182. MYSQL查找重复的电子邮箱" />
     <MESSAGE value="595. 编写一个SQL查询，输出表中所有大国家的名称、人口和面积。" />
@@ -1400,187 +1498,155 @@
     <option name="LAST_COMMIT_MESSAGE" value="627. 交换性别。要求：只写一个 Update 语句，不要任何中间表，不要编写任何 Select 语句。" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="651" y="235" key="#Inspections" timestamp="1617679648742">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="315" y="124" key="#CLI_Interpreters" timestamp="1651735540008">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="651" y="235" key="#Inspections/0.0.2048.1112@0.0.2048.1112" timestamp="1617679648742" />
-    <state x="1090" y="66" width="584" height="900" key="#PHP" timestamp="1617177100641">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="315" y="124" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1651735540008" />
+    <state x="435" y="0" width="679" height="824" key="#FindTheWinnerTest.testFindTheWinner4" timestamp="1651738460947">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="1090" y="66" width="584" height="900" key="#PHP/0.0.2048.1112@0.0.2048.1112" timestamp="1617177100641" />
-    <state x="617" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617175507996">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="435" y="0" width="679" height="824" key="#FindTheWinnerTest.testFindTheWinner4/0.0.1536.824@0.0.1536.824" timestamp="1651738460947" />
+    <state x="435" y="0" width="679" height="824" key="#FindTheWinnerTest.testFindTheWinner4_(1)" timestamp="1651760506697">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="617" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1617175507996" />
-    <state x="735" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1617257718825">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="435" y="0" width="679" height="824" key="#FindTheWinnerTest.testFindTheWinner4_(1)/0.0.1536.824@0.0.1536.824" timestamp="1651760506697" />
+    <state x="395" y="91" key="#Inspections" timestamp="1651733881944">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="735" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1617257718825" />
-    <state width="420" height="618" key="DebuggerActiveHint" timestamp="1618211498860">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1651733881944" />
+    <state x="348" y="67" key="#Servers" timestamp="1651654428349">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="420" height="618" key="DebuggerActiveHint/0.0.2048.1112@0.0.2048.1112" timestamp="1618211498860" />
-    <state width="1164" height="214" key="GridCell.Tab.0.bottom" timestamp="1618220228931">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="348" y="67" key="#Servers/0.0.1536.824@0.0.1536.824" timestamp="1651654428349" />
+    <state x="349" y="67" key="#Test_Frameworks" timestamp="1651735374530">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1164" height="214" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1618220228931" />
-    <state width="1164" height="214" key="GridCell.Tab.0.center" timestamp="1618220228931">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="349" y="67" key="#Test_Frameworks/0.0.1536.824@0.0.1536.824" timestamp="1651735374530" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651739776472">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1164" height="214" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1618220228931" />
-    <state width="1164" height="214" key="GridCell.Tab.0.left" timestamp="1618220228931">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1651739776472" />
+    <state x="574" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1651834973138">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1164" height="214" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1618220228931" />
-    <state width="1164" height="214" key="GridCell.Tab.0.right" timestamp="1618220228931">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="574" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1651834973138" />
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1651735796134">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1164" height="214" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1618220228931" />
-    <state width="1164" height="214" key="GridCell.Tab.1.bottom" timestamp="1618220228931">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1651735796134" />
+    <state x="435" y="0" width="679" height="824" key="#findTheWinnerTest.testFindTheWinner4" timestamp="1651735903808">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1164" height="214" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1618220228931" />
-    <state width="1164" height="214" key="GridCell.Tab.1.center" timestamp="1618220228931">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="435" y="0" width="679" height="824" key="#findTheWinnerTest.testFindTheWinner4/0.0.1536.824@0.0.1536.824" timestamp="1651735903808" />
+    <state x="435" y="0" width="679" height="824" key="#findTheWinnerTest.testFindTheWinner4_(1)" timestamp="1651738431801">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1164" height="214" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1618220228931" />
-    <state width="1164" height="214" key="GridCell.Tab.1.left" timestamp="1618220228931">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="435" y="0" width="679" height="824" key="#findTheWinnerTest.testFindTheWinner4_(1)/0.0.1536.824@0.0.1536.824" timestamp="1651738431801" />
+    <state x="601" y="322" key="ComposerInitDialogKey" timestamp="1651739594361">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1164" height="214" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1618220228931" />
-    <state width="1164" height="214" key="GridCell.Tab.1.right" timestamp="1618220228931">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="601" y="322" key="ComposerInitDialogKey/0.0.1536.824@0.0.1536.824" timestamp="1651739594361" />
+    <state width="456" height="618" key="DebuggerActiveHint" timestamp="1651836368445">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1164" height="214" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1618220228931" />
-    <state width="1164" height="214" key="GridCell.Tab.2.bottom" timestamp="1618220228931">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="456" height="618" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1651836368445" />
+    <state x="503" y="287" width="438" height="481" key="FileChooserDialogImpl" timestamp="1651832606253">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1164" height="214" key="GridCell.Tab.2.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1618220228931" />
-    <state width="1164" height="214" key="GridCell.Tab.2.center" timestamp="1618220228931">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="503" y="287" width="438" height="481" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1651832606253" />
+    <state width="1491" height="206" key="GridCell.Tab.0.bottom" timestamp="1651837073710">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1164" height="214" key="GridCell.Tab.2.center/0.0.2048.1112@0.0.2048.1112" timestamp="1618220228931" />
-    <state width="1164" height="214" key="GridCell.Tab.2.left" timestamp="1618220228931">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1491" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651837073710" />
+    <state width="1491" height="206" key="GridCell.Tab.0.center" timestamp="1651837073710">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1164" height="214" key="GridCell.Tab.2.left/0.0.2048.1112@0.0.2048.1112" timestamp="1618220228931" />
-    <state width="1164" height="214" key="GridCell.Tab.2.right" timestamp="1618220228931">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1491" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1651837073710" />
+    <state width="1491" height="206" key="GridCell.Tab.0.left" timestamp="1651837073710">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1164" height="214" key="GridCell.Tab.2.right/0.0.2048.1112@0.0.2048.1112" timestamp="1618220228931" />
-    <state x="848" y="258" key="NewPhpClassDialog" timestamp="1618216082144">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1491" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1651837073710" />
+    <state width="1491" height="206" key="GridCell.Tab.0.right" timestamp="1651837073710">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="848" y="258" key="NewPhpClassDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1618216082144" />
-    <state x="860" y="475" key="NewPhpFileDialog" timestamp="1617269129379">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1491" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1651837073710" />
+    <state width="1491" height="196" key="GridCell.Tab.1.bottom" timestamp="1651836455189">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="860" y="475" key="NewPhpFileDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1617269129379" />
-    <state x="1177" y="381" key="PhpDebugProjectChooserDialog" timestamp="1617270861385">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1491" height="196" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651836455189" />
+    <state width="1491" height="196" key="GridCell.Tab.1.center" timestamp="1651836455189">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="1177" y="381" key="PhpDebugProjectChooserDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1617270861385" />
-    <state x="575" y="203" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1617689882604">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1491" height="196" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1651836455189" />
+    <state width="1491" height="196" key="GridCell.Tab.1.left" timestamp="1651836455189">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="575" y="203" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2048.1112@0.0.2048.1112" timestamp="1617689882604" />
+    <state width="1491" height="196" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1651836455189" />
+    <state width="1491" height="196" key="GridCell.Tab.1.right" timestamp="1651836455189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="196" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1651836455189" />
+    <state x="592" y="114" key="NewPhpClassDialog" timestamp="1651832530462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="592" y="114" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1651832530462" />
+    <state x="244" y="0" key="SettingsEditor" timestamp="1651740105613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="244" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1651740105613" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1651739642992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1651739642992" />
+    <state x="-249" y="186" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1651735533491">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-249" y="186" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1651735533491" />
+    <state x="538" y="201" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1651832611421">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="538" y="201" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1651832611421" />
+    <state x="479" y="103" width="577" height="618" key="find.popup" timestamp="1651766670871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="103" width="577" height="618" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1651766670871" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1651739919465">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1651739919465" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/daily/Clumsy.php</url>
+          <url>file://$PROJECT_DIR$/src/daily/Clumsy.php</url>
           <line>58</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/daily/FindTheWinner.php</url>
+          <line>137</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/daily/NumSubarrayProductLessThanK.php</url>
+          <line>52</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/daily/RecentCounter.php</url>
+          <line>68</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/daily/RecentCounter.php</url>
+          <line>79</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.33837208" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.33837208" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Python 3.7 interpreter library</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.33837208" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>leetcode</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.33837208" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.33837208" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode@findTheWinnerTest_testFindTheWinner4.xml" NAME="findTheWinnerTest.testFindTheWinner4 Coverage Results" MODIFIED="1651736312619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
